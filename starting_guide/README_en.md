@@ -74,9 +74,9 @@ These cardiac rhythm disorders are studied through R-R interval analysis.
 <img src="./images/RR_intervalles_2.png" alt="R-R intervalles" width="500"/></br>
 *R-R intervalle. Source: https://ya-webdesign.com* </br>
 
-There's a direct link in heart rate and R-R interval:
+There's a direct link between heart rate and R-R interval:
 
-$${bpm} = {\frac{60}{rrinterval}}$$
+<img src="./images/bpm_formula.png" alt="" width="180"/>
 
 
 ### Extract R-R intervals from ECG signal
@@ -90,10 +90,12 @@ We have chosen 3 of them among the most powerful and commonly used:
 We then compared them to assess the robustness of our intervals and the signal quality for each examination.
 We calculated the following 2 metrics:
 
- * $${CoefCorrelation_{algo1, algo2}} = { \frac{2 \times NombreDeDetectionCommune_{algo1, algo2}}{NombreDeDetectionTotal_{algo1} + NombreDeDetectionTotal_{algo2}}}$$
+
+
+ * <img src="./images/coef_correl_formula.png" alt="" width="800"/>
  coefficient between 0 (totally different results) and 1 (perfect correlation between R-R intervals)
 
- * $MissingBeat_{algo1, algo2}$  the sum of intervals longer than 2 seconds where we didn't detect a heartbeat (physiologically impossible)
+ * <img src="./images/missing_beats_formula.png" alt="" width="200"/> the sum of intervals longer than 2 seconds where we didn't detect a heartbeat (physiologically impossible)
  The lower the value, the better !
 
  ### The available data

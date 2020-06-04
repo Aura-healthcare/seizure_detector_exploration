@@ -79,8 +79,7 @@ Ces troubles du rythme cardiaque s'étudient via l'analyse des intervalles R-R.
 
 Il y a un lien direct en rythme cardiaque et intervalle R-R:
 
-$${bpm} = {\frac{60}{rrinterval}}$$
-
+<img src="./images/bpm_formula.png" alt="" width="180"/>
 
 ### Extraire les intervalles R-R à partir du signal ECG
 Pour extraire les intervalles R-R du signal ECG nous avons eu recours à des algorithmes standards dits de "détection des complexes QRS". Ces algorithmes sont robustes mais loin d'être infaillibles et ils en existent de nombreuses implémentations.
@@ -93,10 +92,10 @@ Nous en avons choisi 3 parmi les plus performants et les plus couramment utilis�
 Nous les avons ensuite comparé pour évaluer la robustesse de nos intervalles ainsi que la qualité du signal pour chaque examen.
 Nous avons calculé les 2 métriques suivantes:
 
- * $${CoefCorrelation_{algo1, algo2}} = { \frac{2 \times NombreDeDetectionCommune_{algo1, algo2}}{NombreDeDetectionTotal_{algo1} + NombreDeDetectionTotal_{algo2}}}$$
+ * <img src="./images/coef_correl_formula.png" alt="" width="800"/>
  coefficient compris entre 0 (résulats totalement différents) et 1 (parfaite correlation entre les R-R intervalles)
 
- * $MissingBeat_{algo1, algo2}$ la sommes des intervalles de plus de 2 secondes ou nous n'avons pas detecté de battements cardiaques (physiologiquement impossible)
+ * <img src="./images/missing_beats_formula.png" alt="" width="200"/> la sommes des intervalles de plus de 2 secondes ou nous n'avons pas detecté de battements cardiaques (physiologiquement impossible)
  Plus cette valeur est faible mieux c'est !
 
 ### Les données mises à disposition
