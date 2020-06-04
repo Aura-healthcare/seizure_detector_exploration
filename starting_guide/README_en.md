@@ -237,4 +237,4 @@ JSON files follow the following format:
 ```
 
 ## The Seizure detection system ##
- ** It's up to you now! **
+ **It's up to you now!**

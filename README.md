@@ -25,6 +25,7 @@ https://www.isip.piconepress.com/projects/tuh_eeg/
 # Starting guide
 
 see [English starting guide section](/starting_guide/README_en.md)
+
 see [French starting guide section](/starting_guide/README_fr.md)
 
 # Data exploration projects
