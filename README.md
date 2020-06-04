@@ -24,8 +24,9 @@ https://www.isip.piconepress.com/projects/tuh_eeg/
 
 # Starting guide
 
-see [Starting guide section](/starting_guide/README.md)
+see [English starting guide section](/starting_guide/README_en.md)
+see [French starting guide section](/starting_guide/README_fr.md)
 
 # Data exploration projects
 
-## Jedha bootcamp - June 2020
+## Jedha bootcamp - May / June 2020
