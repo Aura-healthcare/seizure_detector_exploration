@@ -1,0 +1,31 @@
+1
+f1:  0.6206896551724139
+Sensitivity:  0.75
+Specificity:  0.9036144578313253
+
+2
+f1:  0.0
+Sensitivity:  0.0
+Specificity:  1.0
+
+3
+f1:  0.6222222222222222
+Sensitivity:  0.875
+Specificity:  0.7972972972972973
+
+4
+f1:  0.5294117647058824
+Sensitivity:  0.36
+Specificity:  nan
+
+5
+f1:  0.1693548387096774
+Sensitivity:  0.09251101321585903
+Specificity:  1.0
+
+6
+f1:  0.3488372093023256
+Sensitivity:  0.21428571428571427
+Specificity:  0.9821428571428571
+
+
