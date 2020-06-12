@@ -41,7 +41,7 @@ Ce dossier peut être splitter en plusieurs catégories :
   <br/>
   
  6. Présentation
-  - [PowerPoint](Presentation.pptx)
+  - [PowerPoint](Presentation.pdf)
     
   <br/>
   
@@ -54,7 +54,7 @@ Ce dossier peut être splitter en plusieurs catégories :
  Pour le features engineering, nous avons combiné les méthodes de Forward Selection & Backward Selection (cf. [Features Engineering](scripts/features_importances.ipynb)).
  
  Enfin, nous avons fait tourné plusieurs modèles de Machine Learning sur ces données afin de les comparer. Les résultats sont disponibles
- dans le [PowerPoint](Presentation.pptx). 
+ dans le [PowerPoint](Presentation.pdf). 
  
  L'algorithme de deep learning LSTM semble mieux performer que les autres en globalité. En effet chaque algorithme a été testé 
  sur chaque patient séléctionné individuellement. Cependant, nous avons obtenus de très bonne performance également avec un 
