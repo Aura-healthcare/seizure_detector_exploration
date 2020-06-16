@@ -31,3 +31,5 @@ see [French starting guide section](/starting_guide/README_fr.md)
 # Data exploration projects
 
 ## Jedha bootcamp - May / June 2020
+ * [Charles & Julien group](./jedha_bootcamp_june_2020/charles_julien_group/README/README_CJ.md)
+ * [Lorenzo group](./jedha_bootcamp_june_2020/lorenzo_group/README.md)

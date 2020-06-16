@@ -22,7 +22,7 @@ Preprocessing
 
   - Perturbations du système nerveux autonome lors des épisodes de crise qui ont pour conséquences des troubles du rythme cardiaque (tachycardie, bradycardie).
   - Ces troubles du rythme cardiaque s'étudient via l'analyse des intervalles R-R.
- 
+
 
 <img src="./images/RR_intervalles_2.png" alt="R-R intervalles" width="500"/></br>
 *R-R intervalle. Source: https://ya-webdesign.com* </br>
@@ -66,10 +66,11 @@ Patient 8204
 | F1 score| 0.5 |
 | Specifcity | 1.00 |
 | Sensitivity | 0.33 |
-Cluster V1
-<img src="./images/cluster0.png" width="500"/></br>* Cluster 0 </br>
-<img src="./images/cluster1.png" width="500"/></br>* Cluster 1</br>
-<img src="./images/cluster2.png" width="500"/></br>* Cluster 2</br>
+**Cluster V1**
+
+<img src="./images/cluster0.png" width="500"/></br> Cluster 0 </br>
+<img src="./images/cluster1.png" width="500"/></br> Cluster 1</br>
+<img src="./images/cluster2.png" width="500"/></br> Cluster 2</br>
 
 | V1 | Cluster 0 | Cluster 1 | Cluster 2 |
 | ------ | ------ | ------ | ------ |
@@ -77,10 +78,10 @@ Cluster V1
 | Specifcity | 0.67 | 1.00 | 1.00 |
 | Sensitivity | 0.88 | 0.37 | 0.45 |
 
-Cluster V2
-<img src="./images/cluster0v2.png" width="500"/></br>* Cluster 0 v2</br>
-<img src="./images/cluster1v2.png" width="500"/></br>* Cluster 1 v2</br>
-<img src="./images/cluster2v2.png.png" width="500"/></br>* Cluster 2 v2</br>
+**Cluster V2**
+<img src="./images/cluster0v2.png" width="500"/></br> Cluster 0 v2</br>
+<img src="./images/cluster1v2.png" width="500"/></br> Cluster 1 v2</br>
+<img src="./images/cluster2v2.png.png" width="500"/></br> Cluster 2 v2</br>
 
 | V2 | Cluster 0 | Cluster 1 | Cluster 2 |
 | ------ | ------ | ------ | ------ |
@@ -101,8 +102,6 @@ Random 20 patients
 
 ### Axes d’améliorations
 
-> 1. Datasets moins déséquilibrés 
+> 1. Datasets moins déséquilibrés
 > 2. Meilleure sélection des features
 > 3. Recouper avec les comptes rendus médicaux des patients
-
-
