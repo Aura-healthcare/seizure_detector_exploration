@@ -26,11 +26,18 @@ Publication 23/11/2019 by Marisa Faraggi, Karim Sayadi : Time series features ex
 
 ## Visualisation with Streamlit
 
+```
+pip install streamlit
+pip install requirements.txt 
+streamlit ecg-visualization.py
+```
+
+
 ## Data exploration
 
 - see [wavelet_analysis_ECG.ipynb](./wavelet_analysis_ECG.ipynb)
 
-## Neuronal Model
+## Neuronal Models
 
 - [wavelet_analysis_ECG_model.ipynb](./wavelet_analysis_ECG_model.ipynb) (Training with one ECG file)
 - [wavelet_analysis_ECG_model_all_patients.ipynb](./wavelet_analysis_ECG_model_all_patients.ipynb)  (Training with 3 ECG file)
