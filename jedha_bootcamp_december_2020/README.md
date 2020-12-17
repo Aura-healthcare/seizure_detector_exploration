@@ -49,7 +49,10 @@ Images below
 - [wavelet_analysis_ECG_model.ipynb](./wavelet_analysis_ECG_model.ipynb) (Training with one ECG file)
 
 <img src="./model.png" width="500"/>
-<img src="./matrix.png" width="500"/>
+<img src="./matrix.png" width="500"/>  
+
+Satisfying results that give us confidence on predicting noisy signals, results can be improved (see our presentation to discover our areas for improvement  
+
 <img src="./epochs.png" width="500"/>
 
 - [wavelet_analysis_ECG_model_all_patients.ipynb](./wavelet_analysis_ECG_model_all_patients.ipynb)  (Training with 3 ECG file)
