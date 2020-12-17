@@ -33,3 +33,11 @@ see [French starting guide section](/starting_guide/README_fr.md)
 ## Jedha bootcamp - May / June 2020
  * [Charles & Julien group](./jedha_bootcamp_june_2020/charles_julien_group/README/README_CJ.md)
  * [Lorenzo group](./jedha_bootcamp_june_2020/lorenzo_group/README.md)
+
+## Jedha bootcamp - December 2020 - classify signal by noise level
+
+[Starting guide](./jedha_bootcamp_december_2020//README.md)
+
+- Maxence Di Marcantonio
+- Henry Dossot
+- David Mougey
