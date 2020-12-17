@@ -41,15 +41,16 @@ streamlit ecg-visualization.py
 
 Images below
 
-![Alt text](./imagedataset.png "Dataset")
+
+<img src="./imagedataset.png" width="500"/>
 
 ## Neuronal Models
 
 - [wavelet_analysis_ECG_model.ipynb](./wavelet_analysis_ECG_model.ipynb) (Training with one ECG file)
 
-![Alt text](./model.png "CNN")
-![Alt text](./matrix.png "Confusion matrix")
-![Alt text](./epochs.png "Confusion matrix")
+<img src="./model.png" width="500"/>
+<img src="./matrix.png" width="500"/>
+<img src="./epochs.png" width="500"/>
 
 - [wavelet_analysis_ECG_model_all_patients.ipynb](./wavelet_analysis_ECG_model_all_patients.ipynb)  (Training with 3 ECG file)
 - [wavelet_analysis_ECG_v1.ipynb](./wavelet_analysis_ECG_v1.ipynb) (signal 1000ms, 1000Hz)
