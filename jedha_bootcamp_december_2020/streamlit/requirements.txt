@@ -1,4 +1,4 @@
-streamlit==0.72.0
+streamlit==1.11.1
 wfdb==3.1.1
 scaleogram==0.9.5
 numpy==1.18.5
